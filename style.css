@@ -1,0 +1,25 @@
+body {
+  background-color: gray;
+}
+.circles {
+  background: white ;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  width: 70%;
+
+}
+.circle1 {
+  background: tomato;
+  margin: 10px;
+  /*width: 20%;*/
+}
+.circle2{
+  background: teal;
+  margin: 20px;
+}
+.circle3{
+  background: lightblue;
+  margin: 20px;
+}
